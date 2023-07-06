@@ -1,3 +1,3 @@
 # test_task_yasp
 
-A temporal repo for a test assignment by YASP
+A temporary repo for a test assignment by YASP
